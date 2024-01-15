@@ -176,3 +176,57 @@ a:hover {
 #HCB_comment_box .hcb-wrapper{clear:both;margin-bottom:.5em}
 #HCB_comment_box input.text{display:block;width:97%;}
 #HCB_comment_box input.submit{margin:0 7px 3px 0;background-color:#f5f5f5;border:1px solid #ccc;border-top:1px solid #ddd;border-left:1px solid #ddd;font-family:montserrat;font-size:100%;line-height:130%;text-decoration:none;font-weight:700;color:#565656;cursor:pointer;width:auto;overflow:visible;padding:4px 10px 3px 7px}#HCB_comment_box input.submit:hover{background-color:#dff4ff;border:1px solid #c2e1ef;color:#369}#HCB_comment_box span.home-desc{opacity:.4}#HCB_comment_box div.comment{border-top:1px solid #eee;margin-bottom:.5em}.hcb-mod b{color:#00008b}.hcb-link{color:blue;text-decoration:underline}
+
+
+/* Gallery styles */
+
+#earlycontainer{
+  margin: 3em auto;
+  width: 100%;
+	max-width: 800px;
+  color: #151515; 
+  outline-color: #a9a9a9;
+  outline-style: ridge;
+  outline-width: 2px;
+  outline-offset: 0;
+  border: 1px solid;
+  background-color: lightgreen;
+}
+
+#earlycontent {
+  padding: 10px 5% 20px 5%;
+}
+
+#recentcontainer{
+  margin: 3em auto;
+  width: 100%;
+	max-width: 800px;
+  color: #151515; 
+  outline-color: #a9a9a9;
+  outline-style: ridge;
+  outline-width: 2px;
+  outline-offset: 0;
+  border: 1px solid;
+  background-color: lightcoral;
+}
+
+#recentcontent {
+  padding: 10px 5% 20px 5%;
+}
+
+#doodlecontainer{
+  margin: 3em auto;
+  width: 100%;
+	max-width: 800px;
+  color: #151515; 
+  outline-color: #a9a9a9;
+  outline-style: ridge;
+  outline-width: 2px;
+  outline-offset: 0;
+  border: 1px solid;
+  background-color: rgb(249, 249, 188);
+}
+
+#doodlecontent {
+  padding: 10px 5% 20px 5%;
+}
